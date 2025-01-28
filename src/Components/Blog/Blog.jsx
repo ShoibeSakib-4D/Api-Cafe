@@ -3,7 +3,7 @@ import { LuBookmarkCheck } from "react-icons/lu";
 
 
 const Blog = ({blog,handleBookmark,handleReadingTime}) => {
-    const {author, cover, author_img,posted_date,reading_time,title,hashtag } = blog;
+    const {id,author, cover, author_img,posted_date,reading_time,title,hashtag } = blog;
     return (
  <>
     <div className='m-5'>
@@ -33,7 +33,7 @@ const Blog = ({blog,handleBookmark,handleReadingTime}) => {
         <div className='border-b-2 py-4 space-y-3'>
         <h1 className='font-bold text-4xl'>{title}</h1>
         <p>{hashtag}</p>
-        <button onClick={()=>handleReadingTime(reading_time) } className='underline'>Mark As Read</button>
+        <button onClick={()=>handleReadingTime(id,reading_time) } className='underline'>Mark As Read</button>
      </div>
      </div>
      
