@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.font-exo400 {
+  font-family: "Exo 2", serif;
+  font-weight: 400 ;
+}
+
+.font-exo600 {
+  font-family: "Exo 2", serif;
+  font-weight: 600 ;
+}
+
+.font-exo700 {
+  font-family: "Exo 2", serif;
+  font-weight: 700 ;
+}

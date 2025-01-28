@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/8jzJYfx/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg",
+      "title": "The Secrets of the Ocean",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/d6s9dfD/young-woman-posing-with-paint-brush-paint-palette.jpg",
+      "posted_date": "2024-01-15",
+      "reading_time": "5 min",
+      "hashtag": ["#ocean", "#mystery", "#adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/5YSj8SX/lifestyle-hobby-people-concept-cute-geeky-redhead-woman-3d-paper-glasses-holding-popcorn-biting-lip.jpg",
+      "title": "AI and the Future",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/f29Ny4f/young-woman-posing-with-paint-brush-paint-palette-1.jpg",
+      "posted_date": "2024-01-20",
+      "reading_time": "7 min",
+      "hashtag": ["#AI", "#technology", "#future"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/FB7HtnG/upset-gloomy-uneasy-cute-pouting-redhead-girl-frowning-dont-want-speak-you-hiding-face.jpg",
+      "title": "A Journey Through Space",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/3NvyqH8/medium-shot-smiley-woman-drawing.jpg",
+      "posted_date": "2024-01-10",
+      "reading_time": "6 min",
+      "hashtag": ["#space", "#science", "#exploration"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/9ZV94wj/vertical-shot-happy-korean-woman-medical-mask-holding-flight-tickets-passport-standing-wit.jpg",
+      "title": "The Art of Mindfulness",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co.com/fxrVxrH/portrait-confident-young-woman-with-eyeglasses.jpg",
+      "posted_date": "2024-01-05",
+      "reading_time": "4 min",
+      "hashtag": ["#mindfulness", "#wellness", "#meditation"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/8jzJYfx/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg",
+      "title": "Breaking into Cybersecurity",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co.com/F3CLSmR/blonde-girl-sitting-chair.jpg",
+      "posted_date": "2024-01-25",
+      "reading_time": "8 min",
+      "hashtag": ["#cybersecurity", "#hacking", "#career"]
+    }
+  ]
+  
