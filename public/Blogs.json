@@ -6,7 +6,7 @@
       "author": "John Doe",
       "author_img": "https://i.ibb.co.com/d6s9dfD/young-woman-posing-with-paint-brush-paint-palette.jpg",
       "posted_date": "2024-01-15",
-      "reading_time": "5 min",
+      "reading_time": 5,
       "hashtag": ["#ocean", "#mystery", "#adventure"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "Jane Smith",
       "author_img": "https://i.ibb.co.com/f29Ny4f/young-woman-posing-with-paint-brush-paint-palette-1.jpg",
       "posted_date": "2024-01-20",
-      "reading_time": "7 min",
+      "reading_time": 7,
       "hashtag": ["#AI", "#technology", "#future"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Michael Brown",
       "author_img": "https://i.ibb.co.com/3NvyqH8/medium-shot-smiley-woman-drawing.jpg",
       "posted_date": "2024-01-10",
-      "reading_time": "6 min",
+      "reading_time": 6,
       "hashtag": ["#space", "#science", "#exploration"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Sarah Johnson",
       "author_img": "https://i.ibb.co.com/fxrVxrH/portrait-confident-young-woman-with-eyeglasses.jpg",
       "posted_date": "2024-01-05",
-      "reading_time": "4 min",
+      "reading_time": 4,
       "hashtag": ["#mindfulness", "#wellness", "#meditation"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "David Lee",
       "author_img": "https://i.ibb.co.com/F3CLSmR/blonde-girl-sitting-chair.jpg",
       "posted_date": "2024-01-25",
-      "reading_time": "8 min",
+      "reading_time": 8,
       "hashtag": ["#cybersecurity", "#hacking", "#career"]
     }
   ]
